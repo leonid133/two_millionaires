@@ -1,4 +1,4 @@
-name := "akka-scala-seed"
+name := "akka-scala-two_millionaires"
 
 version := "1.0"
 

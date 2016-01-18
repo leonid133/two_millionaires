@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/provectus_alicebob.iml" filepath="$PROJECT_DIR$/.idea/modules/provectus_alicebob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/provectus_alicebob-build.iml" filepath="$PROJECT_DIR$/.idea/modules/provectus_alicebob-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/two_millionaires.iml" filepath="$PROJECT_DIR$/.idea/modules/two_millionaires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/two_millionaires-build.iml" filepath="$PROJECT_DIR$/.idea/modules/two_millionaires-build.iml" />
     </modules>
   </component>
 </project>
